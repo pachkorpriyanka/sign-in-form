@@ -4,7 +4,7 @@ import React from "react";
 const Signin = () => {
   return (
     <>
-      <h1>signin</h1>
+      <h1>login</h1>
       <Grid container className="name">
         <Grid item xs={0.8}>
           <Typography>email:</Typography>
